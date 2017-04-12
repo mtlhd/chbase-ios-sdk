@@ -3,4 +3,4 @@ This project is derived from tV2 of HVMobile Library - https://github.com/micros
 
 This fork has been extended with functionality to support the Swedish [BankID](https://www.bankid.com) service for user authentication. In order to enable automatic launch of the BankID app from your app a few lines needs to be added to your plist file, see picture below.
 
-![plist file content](PlistWithBankIDURLScheme.png?raw=true "info.plist with BankID URL scheme added")
+![plist file content](https://github.com/mtlhd/chbase-ios-sdk/raw/master/PlistWithBankIDURLScheme.png "info.plist with BankID URL scheme added")
